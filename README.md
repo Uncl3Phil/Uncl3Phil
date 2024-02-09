@@ -5,7 +5,11 @@ At the age of 35 (as of the moment I write this), I was a municipal driver grapp
 </p>
 
 <p align="left"> 
-Today, fully immersed in this domain, I discover and learn more each day, now working on integral projects. While balding and dealing with excess weight pose challenges, my focus lies in #frontenddeveloper, applying skills in <strong>#html</strong> <strong>#css</strong> <strong>#javascript</strong> <strong>#tailwind</strong>. With determination, I persist in my studies, aiming to enhance and embrace new technologies.
+Today, fully immersed in this domain, I discover and learn more each day, now working on integral projects. While balding and dealing with excess weight pose challenges, my focus lies in #frontenddeveloper, applying skills in <strong>#html</strong> <strong>#css</strong> <strong>#javascript</strong> <strong>#tailwind</strong>.
+</p>
+
+<p align="left"> 
+With determination, I persist in my studies, aiming to enhance and embrace new technologies.
 </p>
 
 <p align="left">
